@@ -34,6 +34,11 @@ creditCardPrompt()
 _It uses `add-billing` from zeit under the hood with some changes._
 
 
+## Demo
+
+<img src="https://github.com/bukinoshita/credit-card-prompt/blob/master/demo.gif" width="550">
+
+
 ## API
 
 ### creditCardPrompt(googleMapsKey)
