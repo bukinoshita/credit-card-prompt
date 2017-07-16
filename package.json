@@ -1,0 +1,30 @@
+{
+  "name": "credit-card-prompt",
+  "version": "0.0.0",
+  "description": "Credit card prompt with validation and address lookup",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "xo --quiet"
+  },
+  "dependencies": {
+    "@google/maps": "^0.4.2",
+    "ansi-escapes": "^2.0.0",
+    "ansi-regex": "^3.0.0",
+    "chalk": "^2.0.1",
+    "credit-card": "^3.0.1",
+    "figures": "^2.0.0",
+    "ora": "^1.3.0",
+    "strip-ansi": "^4.0.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^2.3.0",
+    "xo": "^0.18.2"
+  },
+  "xo": {
+    "extends": ["prettier"],
+    "rules": {
+      "unicorn/no-process-exit": 0
+    }
+  }
+}
