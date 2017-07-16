@@ -7,6 +7,20 @@
   "scripts": {
     "test": "xo --quiet"
   },
+  "keywords": [
+    "credit",
+    "card",
+    "debit",
+    "stripe",
+    "address",
+    "google",
+    "maps",
+    "payment",
+    "prompt",
+    "validation",
+    "cc",
+    "pay"
+  ],
   "dependencies": {
     "@google/maps": "^0.4.2",
     "ansi-escapes": "^2.0.0",
