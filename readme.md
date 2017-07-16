@@ -43,7 +43,7 @@ _It uses `add-billing` from zeit under the hood with some changes._
 
 ### creditCardPrompt(googleMapsKey)
 
-Return a `promise`
+Returns a `promise`
 
 #### googleMapsKey
 
