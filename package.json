@@ -1,6 +1,6 @@
 {
   "name": "credit-card-prompt",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Credit card prompt with validation and address lookup",
   "main": "index.js",
   "license": "MIT",
@@ -36,7 +36,9 @@
     "xo": "^0.18.2"
   },
   "xo": {
-    "extends": ["prettier"],
+    "extends": [
+      "prettier"
+    ],
     "rules": {
       "unicorn/no-process-exit": 0
     }
