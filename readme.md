@@ -55,7 +55,7 @@ If Google Maps API Key is set, it will lookup for user `state` and `city` using 
 
 ## Related
 
-- [npm-donate](https://github.com/bukinoshita/npm-donate) — Support maintainers with a donation and help them continue with activities
+- [npm-donate](https://github.com/bukinoshita/npm-donate) — Support maintainers with a donation and help them continue with activities.
 
 
 ## License
