@@ -24,7 +24,7 @@
   "dependencies": {
     "@google/maps": "^0.4.2",
     "ansi-escapes": "^2.0.0",
-    "ansi-regex": "^3.0.0",
+    "ansi-regex": "^6.0.1",
     "chalk": "^2.0.1",
     "credit-card": "^3.0.1",
     "figures": "^2.0.0",
